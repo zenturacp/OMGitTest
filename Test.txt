@@ -1,0 +1,2 @@
+    git config --global user.name "Christian Pedersen"
+    git config --global user.email christian.pedersen@zentura.dk
